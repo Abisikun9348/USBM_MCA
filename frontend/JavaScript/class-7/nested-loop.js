@@ -8,4 +8,4 @@ for(let i = 1; i <= 5; i++) { // outer loop
     }
     console.log(`outer value ${i}`);
 }
-console.log(`total no of ittretion = ${total}`);
+console.log(`total no of ittretionn = ${total}`);
