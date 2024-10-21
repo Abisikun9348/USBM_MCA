@@ -12,13 +12,13 @@ function a() {
 }
 //a()
 //its shows a error because function hosted to the top
-//var implementation
+//var implementations
 console.log(address);
 var address = "bhubaneswar";
 console.log(address);
 // prementive data type 
 console.log(null);
-console.log("bhagya");
+console.log("abi");
 console.log(143);
 console.log(undefined);
 console.log(1.23);
