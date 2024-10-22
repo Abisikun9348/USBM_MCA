@@ -8,7 +8,7 @@ console.log(typeof(undefined));
 a();
 var a = 10;
 function a() {
-    console.log("its a a functon");
+    console.log("its a functon");
 }
 //a()
 //its shows a error because function hosted to the top
