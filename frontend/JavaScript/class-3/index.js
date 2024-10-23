@@ -28,14 +28,14 @@ let sym2 = Symbol("sym1");
 // NaN datatype in js
 console.log(0 / 0);
 let a = "hfsgdfg";
-let myName = "Bikash";
-let cityName = "Balasore";
+let myName = "abinash";
+let cityName = "Bhadrak";
 let collegeName = "USBM";
 const roll = 2305274024;
 console.log(
   `my name is ${myName} and i'm from ${cityName}.\n I'm styding in ${collegeName} with rollNo: ${roll}`
 );
-let string = " biku ";
+let string = " sikun ";
 let lengthIs = string.replaceAll(" ", "").length;
 console.log(lengthIs);
 console.log(100 + "100");
